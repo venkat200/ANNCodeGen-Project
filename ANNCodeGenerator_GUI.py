@@ -467,7 +467,6 @@ def GenNextInput(totinp):
 	return newtotinp
 
 
-
 #--7--
 def CreateOutputFile():
 	global testbenchcode_format
@@ -489,6 +488,7 @@ def CreateOutputFile():
 
 
 #---------------------------------------------------------------------------
+
 
 #--Main Code----------------------------------------------------------------
 
